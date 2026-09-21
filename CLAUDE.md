@@ -4,7 +4,8 @@ Ukázkový web pro fiktivní autoservis — **Autoservis Král**.
 
 ## Status
 
-Rozpracované (design hotový, zatím bez vlastního GitHub repa / GitHub Pages).
+Hotové a nasazené. Repo: [adam-kriz/autoservis-kral](https://github.com/adam-kriz/autoservis-kral).
+Živý web: **https://adam-kriz.github.io/autoservis-kral/**
 
 ## Brief
 
@@ -57,9 +58,8 @@ složka `img/` se staženými fotkami.
 
 ## Konvence
 
-Řídí se konvencemi z kořenového [`CLAUDE.md`](../CLAUDE.md) — až bude web
-hotový a schválený, dostane vlastní GitHub repo `autoservis-kral`, nezávislé
-na kořenovém repu workspace (zatím ho nemá).
+Řídí se konvencemi z kořenového [`CLAUDE.md`](../CLAUDE.md) — vlastní GitHub
+repo `autoservis-kral`, nezávislé na kořenovém repu workspace.
 
 ## Lokální náhled
 
